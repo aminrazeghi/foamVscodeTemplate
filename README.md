@@ -1,6 +1,6 @@
-# Basic vscode configs for OpenFOAM files
+# Basic vs code configs for OpenFOAM files
 
-Clone repository and start foaming
+Clone the repository and start foaming
 ```shell
-git clone https:...
+git clone https://github.com/aminrazeghi/foamVscodeTemplate.git
 ```
